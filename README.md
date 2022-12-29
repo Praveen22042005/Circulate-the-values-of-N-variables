@@ -23,7 +23,7 @@ def circulate():
     print("After circulating the values are:",a)
 ```
 
-## Output:
+# Output:
 ![output](circulate.png)]
 
 ## Result:
